@@ -58,6 +58,25 @@ The following approaches will be used to find the best model for the prediction:
 * LDA
 * Decision tree
 
+## Spam Detection
+
+Spam Detection
+
+There are many ways in which ones email address, phone number and other contact information can be come a target for spam messaging. This range from malicious data harvesting from websites and social media pages to self registrations when registering for certain services such as banking and telephone or internet services.
+
+This therefore means it would be very hard for an individual to constantly go through all their messages and emails categorising them as either reasonable messages or spam.
+
+Spam detection is an integral part of most email service providers, they use an algorithm that detects spam and saves them to a spam folder thus ensuring that only important emails are shhown in the important folders. The algorithm that is used for spam detection should be therefore very accurate or it may lead to misclassification of emails, sending important emails to spam or spam showing up in the important folders.
+
+## Project Description
+
+In this exercise, we will be trying to come up with a Naive Bayes Classifier that accurately predicts the email type and deals with it accordingly.
+
+The following approaches will be used to find the best model for the prediction:
+
+* LDA
+* Naive Bayes 
+
 #### Project Owner:
 
 |Name     |  Slack Handle   | 
